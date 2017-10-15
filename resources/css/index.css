@@ -40,6 +40,19 @@ body {
   text-align: right;
 }
 
-.card {
+h3.section {
   margin-top: 50px;
+}
+
+.card {
+  margin-bottom: 50px;
+}
+
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.date {
+  margin-top: 0;
 }
